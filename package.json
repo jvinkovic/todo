@@ -11,6 +11,10 @@
   "license": "ISC",
   "dependencies": {
     "best": "^4.0.0-beta5"
+    "random": "^2.1.1",
+    "rt": "0.0.1",
+    "axios": "^0.19.2"
+
   },
   "devDependencies": {
     "@babel/core": "^7.8.7",
