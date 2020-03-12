@@ -1,3 +1,6 @@
+import './style.scss';
+import './index.html';
+
 // button dodaj click
 const dodajBtn = document.querySelector('#btn-dodaj');
 dodajBtn.addEventListener('click', dodajNovi);
